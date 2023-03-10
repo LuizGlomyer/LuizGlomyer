@@ -1,6 +1,6 @@
 ### Olá, mundo! 🌎
 
-Me chamo Luiz e sou aluno do curso de Sistemas de Informação pela Universidade do Estado do Amazonas (UEA). Sou apaixonado por conhecimento, sempre busco aprender novas coisas e me aprimorar sempre. Aqui no meu por aqui você pode encontrar alguns dos projetos em que trabalhei ou que estou atualmente desenvolvendo!
+Me chamo Luiz, sou desenvolvedor Full Stack e aluno do curso de Sistemas de Informação pela Universidade do Estado do Amazonas (UEA). Sou apaixonado por conhecimento, sempre busco aprender novas coisas e me aprimorar sempre. Aqui no meu por aqui você pode encontrar alguns dos projetos em que trabalhei ou que estou atualmente desenvolvendo!
 
 Tenho conhecimento e experiência em diversos tópicos. 
 
