@@ -9,7 +9,6 @@ Me chamo Luiz, sou desenvolvedor Full Stack e aluno do curso de Sistemas de Info
 
 Tenho conhecimento e experiência em diversos tópicos. 
 
-<br>
 Programming languages/ <br>
 Linguagens de programação:
 <div style="display: flex">
@@ -19,7 +18,6 @@ Linguagens de programação:
 </div>
 <br>
 
-<br>
 Frameworks & runtimes:
 <div style="display: flex">
   <img width="50px" style="margin-right: 5px" src="icons/react-original.svg" title="React" />
@@ -30,7 +28,6 @@ Frameworks & runtimes:
 </div>
 <br>
 
-<br>
 Technologies in general/ <br>
 Tecnologias em geral:
 <div style="display: flex">
