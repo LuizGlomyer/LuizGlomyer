@@ -1,9 +1,16 @@
-### Olá, mundo! 🌎
+### 🇬🇧🇺🇸 Hello, world! 🌎
+My name is Luiz, I'm a Full Stack developer and a student of the Information Systems course at the State University of Amazonas (UEA). I am passionate about knowledge, I always seek to learn new things and to always improve myself. Here on my Github you can find some of the projects I've worked on or that I'm currently developing!
 
-Me chamo Luiz, sou desenvolvedor Full Stack e aluno do curso de Sistemas de Informação pela Universidade do Estado do Amazonas (UEA). Sou apaixonado por conhecimento, sempre busco aprender novas coisas e me aprimorar sempre. Aqui no meu por aqui você pode encontrar alguns dos projetos em que trabalhei ou que estou atualmente desenvolvendo!
+I have knowledge and experience in various topics.
+
+### 🇧🇷 Olá, mundo! 🌎
+
+Me chamo Luiz, sou desenvolvedor Full Stack e aluno do curso de Sistemas de Informação pela Universidade do Estado do Amazonas (UEA). Sou apaixonado por conhecimento, sempre busco aprender novas coisas e me aprimorar sempre. Aqui por aqui no meu Github você pode encontrar alguns dos projetos em que trabalhei ou que estou atualmente desenvolvendo!
 
 Tenho conhecimento e experiência em diversos tópicos. 
 
+<br>
+Programming languages/ <br>
 Linguagens de programação:
 <div style="display: flex">
   <img width="50px" style="margin-right: 5px" src="icons/python-original.svg" title="Python" />
@@ -12,7 +19,8 @@ Linguagens de programação:
 </div>
 <br>
 
-Frameworks/runtimes:
+<br>
+Frameworks & runtimes:
 <div style="display: flex">
   <img width="50px" style="margin-right: 5px" src="icons/react-original.svg" title="React" />
   <img width="50px" style="margin-right: 5px" src="icons/nodejs-original.svg" title="Node.js" />
@@ -22,6 +30,8 @@ Frameworks/runtimes:
 </div>
 <br>
 
+<br>
+Technologies in general/ <br>
 Tecnologias em geral:
 <div style="display: flex">
   <img width="50px" style="margin-right: 5px" src="icons/linux-original.svg" title="GNU/Linux" />
@@ -35,6 +45,7 @@ Tecnologias em geral:
 </div>
 <br>
 
+Visit my website/<br>
 Visite meu website!
 
 >https://luizglomyer.github.io/
