@@ -9,8 +9,9 @@ Me chamo Luiz, sou desenvolvedor Full Stack e aluno do curso de Sistemas de Info
 
 Tenho conhecimento e experiência em diversos tópicos. 
 
-Programming languages/ <br>
-Linguagens de programação:
+---
+
+Programming languages / Linguagens de programação:
 <div style="display: flex">
   <img width="50px" style="margin-right: 5px" src="icons/python-original.svg" title="Python" />
   <img width="50px" src="icons/javascript-original.svg" title="Javascript" />
@@ -28,7 +29,7 @@ Frameworks & runtimes:
 </div>
 <br>
 
-Technologies in general/ <br>
+Technologies in general /
 Tecnologias em geral:
 <div style="display: flex">
   <img width="50px" style="margin-right: 5px" src="icons/linux-original.svg" title="GNU/Linux" />
@@ -42,10 +43,13 @@ Tecnologias em geral:
 </div>
 <br>
 
-Visit my website/<br>
+Visit my website /
 Visite meu website!
-
 >https://luizglomyer.github.io/
+
+Or take a look at my resume /
+Ou dê uma olhada no meu currículo:
+>[Curriculum Vitae](https://github.com/LuizGlomyer/LuizGlomyer/blob/main/Curr%C3%ADculo%20Luiz%20Glomyer.pdf)
 
 <br>
 <div style="display: flex">
@@ -53,6 +57,4 @@ Visite meu website!
 ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luizglomyer&theme=tokyonight)
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=luizglomyer&theme=gruvbox)
-
 </div>
-
