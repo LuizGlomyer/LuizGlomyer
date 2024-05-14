@@ -2,7 +2,7 @@
 Hello! My name is Luiz, I am a Full Stack developer graduated from the Information Systems course at the State University of Amazonas (UEA), currently specializing in the area of Software Testing and studying DevOps. I'm passionate about knowledge, I'm always studying something new for myself 📚. Here on my Github you can find some of the projects I've worked on or that I'm currently developing!
 
 I have knowledge and experience in various topics. Visit my website to know me better:
->https://luizglomyer.github.io/
+>https://glomyer.dev/
 
 
 # 💻 Tech Stack:
