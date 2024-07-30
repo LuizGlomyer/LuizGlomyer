@@ -10,7 +10,7 @@ Here are some the main things that I know (hover the mouse to see the name). Sma
 
 
 >Programming languages/Runtimes:
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+<div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <img width="50px" title="Python" src="icons/python-original.svg" />
   <img width="50px" title="Javascript" src="icons/javascript-original.svg" />
   <img width="50px" title="Typescript" src="icons/typescript-original.svg" />
@@ -24,7 +24,7 @@ Here are some the main things that I know (hover the mouse to see the name). Sma
 
 
 >Frameworks/Libs:
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+<div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <img width="50px" title="React/Native" src="icons/react-original.svg" />
   <img width="50px" title="NestJS" src="icons/nestjs-original.svg" />
   <img width="60px" title="Angular" src="icons/angular-original.svg" />
@@ -39,7 +39,7 @@ Here are some the main things that I know (hover the mouse to see the name). Sma
 
 
 >Databases/ORMs:
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+<div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <img width="50px" title="PostgreSQL" src="icons/postgresql-original.svg" />
   <img width="50px" title="MySQL" src="icons/mysql-original.svg" />
   <img width="50px" title="SQLite" src="icons/sqlite-original.svg" />
@@ -52,7 +52,7 @@ Here are some the main things that I know (hover the mouse to see the name). Sma
 
 
 >Cloud/DevOps:
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+<div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <img width="60px" title="Docker" src="icons/docker-original.svg" />
   <img width="50px" title="GNU/Linux" src="icons/linux-original.svg" />
   <img width="50px" title="AWS" src="icons/amazonwebservices-original-wordmark.svg" />
@@ -64,7 +64,7 @@ Here are some the main things that I know (hover the mouse to see the name). Sma
 
 
 >Software Quality and Testing:
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+<div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <img width="50px" title="Jira" src="icons/jira-original.svg" />
   <img width="40px" title="Jest" src="icons/jest-plain.svg" />
   <img width="60px" title="Pytest" src="icons/pytest-original.svg" />
@@ -75,7 +75,7 @@ Here are some the main things that I know (hover the mouse to see the name). Sma
 
 
 >Technologies in general:
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+<div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <img width="50px" title="Git" src="icons/git-original.svg" />
   <img width="50px" title="Raspberry Pi" src="icons/raspberrypi-original.svg" />
   <img width="50px" title="Arduino" src="icons/arduino-original.svg" />
@@ -83,6 +83,7 @@ Here are some the main things that I know (hover the mouse to see the name). Sma
   <img width="50px" title="Adobe Illustrator" src="icons/illustrator-plain.svg" />
 </div>
 <br>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LuizGlomyer&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
